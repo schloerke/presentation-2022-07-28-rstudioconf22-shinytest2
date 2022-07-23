@@ -11,7 +11,6 @@ http://schloerke.com/presentation-2022-07-28-rstudioconf22-shinytest2/rstudiocon
 
 ## Resources for learning more
 
-[:octocat:](https://github.com/r-lib/testthat/)
 * [`{shinytest2}`](https://rstudio.github.io/shinytest2/) [:octocat:](https://github.com/rstudio/shinytest2): Regression testing for Shiny applications
 
 * [`{shiny}`](https://https://shiny.rstudio.com/) [:octocat:](https://github.com/rstudio/shiny): Web Application Framework for R
