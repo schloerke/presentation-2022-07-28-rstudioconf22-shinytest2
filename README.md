@@ -1,20 +1,12 @@
-# `{shinytest2}`: Regression testing Shiny applications
-
-<!-- <table style="margin:0px">
-  <tr>
-    <td><a href="https://www.rplumber.io/"><img src="images/plumber.png" height="100px" style="padding: 10px;"></a></td>
-    <td vlign="center">+</td>
-    <td><a href="https://github.com/HenrikBengtsson/future"><img src="images/future.20200115.1200dpi.png" height="100px" style="padding: 10px;"></a></td>
-  </tr>
-</table> -->
+# `{shinytest2}`: Regression testing Shiny applications  <a href="https://rstudio.github.io/shinytest2/"><img src="https://github.com/rstudio/shinytest2/raw/main/logo/shinytest2.png" align="right" height="139" /></a>
 
 ## Slides
 
 * HTML:
-<!-- http://schloerke.com/presentation-2021-01-rstudio-global-plumber-async -->
+http://schloerke.com/presentation-2022-07-28-rstudioconf22-shinytest2/
 
 * PDF:
-<!-- http://schloerke.com/presentation-2021-01-rstudio-global-plumber-async/plumber_future.pdf -->
+http://schloerke.com/presentation-2022-07-28-rstudioconf22-shinytest2/rstudioconf22-shinytest2.pdf
 
 
 ## Resources for learning more
