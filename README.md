@@ -8,6 +8,8 @@ http://schloerke.com/presentation-2022-07-28-rstudioconf22-shinytest2/
 * PDF:
 http://schloerke.com/presentation-2022-07-28-rstudioconf22-shinytest2/rstudioconf22-shinytest2.pdf
 
+* Recording: https://www.rstudio.com/conference/2022/talks/shinytest2-unit-testing-for-shiny/
+
 
 ## Resources for learning more
 
